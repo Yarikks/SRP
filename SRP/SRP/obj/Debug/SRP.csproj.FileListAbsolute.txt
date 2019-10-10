@@ -1,0 +1,7 @@
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Констроювання ПЗ\SRP\SRP\bin\Debug\SRP.exe.config
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Констроювання ПЗ\SRP\SRP\bin\Debug\SRP.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Констроювання ПЗ\SRP\SRP\bin\Debug\SRP.pdb
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Констроювання ПЗ\SRP\SRP\obj\Debug\SRP.csprojAssemblyReference.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Констроювання ПЗ\SRP\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Констроювання ПЗ\SRP\SRP\obj\Debug\SRP.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Констроювання ПЗ\SRP\SRP\obj\Debug\SRP.pdb
